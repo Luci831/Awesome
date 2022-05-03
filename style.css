@@ -50,7 +50,7 @@ header {
     float: right;
 }
 #top-section-main {
-    background-image: url(../Images/friends.jpg);
+    background-image: url(Friends.png);
     height: 740px;
     border: none;
 }
@@ -184,7 +184,7 @@ header {
 }
 
 #call-to-action {
-    background-image: url(../Images/darkdesk.png);
+    background-image: url(Darkdesk.png);
     background-position: 50% 50%;
     padding-bottom: 45px;
 }
@@ -258,7 +258,7 @@ footer {
     background-color: black;
     clear: both;
     height: 500px;
-    background-image: url(../Images/footerbg.png);
+    background-image: url(Footerbg.png);
     background-position: 50% 50%;
 }
 .social-footer {
